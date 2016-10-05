@@ -1,0 +1,14 @@
+*.sw?
+.DS_Store
+tmp/*
+log/*
+node_modules/
+*.log
+
+.vscode
+*.iml
+
+src/**/*.js
+src/**/*.js.map
+test/**/*.js
+test/**/*.js.map
